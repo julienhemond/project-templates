@@ -1,0 +1,82 @@
+[
+  {
+    "name": "frontend",
+    "color": "1d76db",
+    "description": "Travail sur l'interface utilisateur (React, Tailwind, UX)"
+  },
+  {
+    "name": "backend",
+    "color": "d93f0b",
+    "description": "Travail sur le backend, API, Express"
+  },
+  {
+    "name": "database",
+    "color": "5319e7",
+    "description": "Schémas MongoDB, requêtes, persistance"
+  },
+  {
+    "name": "auth",
+    "color": "fbca04",
+    "description": "Authentification, gestion des utilisateurs"
+  },
+  {
+    "name": "pdf",
+    "color": "0e8a16",
+    "description": "Génération de PDF et fonctionnalités associées"
+  },
+  {
+    "name": "deployment",
+    "color": "c2e0c6",
+    "description": "CI/CD, déploiement Vercel, Railway, config"
+  },
+  {
+    "name": "infra",
+    "color": "006b75",
+    "description": "Infrastructure technique, monitoring, outils"
+  },
+  {
+    "name": "enhancement",
+    "color": "84b6eb",
+    "description": "Amélioration d'une fonctionnalité existante"
+  },
+  {
+    "name": "bug",
+    "color": "ee0701",
+    "description": "Correction de bug"
+  },
+  {
+    "name": "refactoring",
+    "color": "bfdadc",
+    "description": "Refactorisation du code"
+  },
+  {
+    "name": "documentation",
+    "color": "0075ca",
+    "description": "Travail sur la documentation du projet"
+  },
+  {
+    "name": "testing",
+    "color": "5319e7",
+    "description": "Tests unitaires, intégration, E2E"
+  },
+  {
+    "name": "mvp",
+    "color": "f9d0c4",
+    "description": "Fonctionnalité prévue pour le MVP de l'été"
+  },
+  {
+    "name": "bonus",
+    "color": "d4c5f9",
+    "description": "Fonctionnalité bonus, à ajouter après le MVP"
+  },
+  {
+    "name": "feedback",
+    "color": "fef2c0",
+    "description": "Tâche issue des retours d'utilisateurs"
+  },
+  {
+    "name": "idea",
+    "color": "c5def5",
+    "description": "Idée pour le futur, non priorisée"
+  }
+]
